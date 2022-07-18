@@ -18,7 +18,7 @@
 <a href="https://github.com/Galib792/VIDEOconvertor/tree/public"> <img src="https://img.shields.io/badge/Github-public%20branch-blueviolet?style=for-the-badge&logo=github" width="220""/></a>
 </p>
 
-`Telegran Channel` - DroneBots
+`Telegran Channel` - Malappuram Techy
 <p><a href="https://t.me/MalappuramTechy"> <img src="https://img.shields.io/badge/Telegram-Join%20Channel-gold?style=for-the-badge&logo=telegram" width="220""/></a></p>
 
 # Main branch
@@ -55,6 +55,8 @@ Add these buildpacks if you are deploying manually (Read tutorial) :
 Deploy your bot on `Okteto`
   
 [![Develop on Okteto](https://okteto.com/develop-okteto.svg)](https://cloud.okteto.com)
+
+Deploy your bot on `Railway`
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/QdzZ9w)
 
