@@ -58,7 +58,7 @@ Deploy your bot on `Okteto`
 
 Deploy your bot on `Railway`
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/QdzZ9w)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/jrJyGA?referralCode=-9cNJ8)
 
 LICENSE:
 
